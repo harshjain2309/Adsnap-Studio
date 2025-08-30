@@ -1,8 +1,6 @@
 * AdSnap Studio
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![GitHub Stars](https://img.shields.io/github/stars/akshit40/adsnap-studio?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/akshit40/adsnap-studio?style=social)
+
 
 > *AdSnap Studio* is a powerful and easy-to-use Streamlit app for generating professional product advertisements using Bria AI’s advanced image generation and manipulation APIs.
 
