@@ -1,27 +1,26 @@
-
-# 🎨 AdSnap Studio
+* AdSnap Studio
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![GitHub Stars](https://img.shields.io/github/stars/akshit40/adsnap-studio?style=social)
 ![GitHub Forks](https://img.shields.io/github/forks/akshit40/adsnap-studio?style=social)
 
-> ⚡ *AdSnap Studio* is a powerful and easy-to-use Streamlit app for generating professional product advertisements using Bria AI’s advanced image generation and manipulation APIs.
+> *AdSnap Studio* is a powerful and easy-to-use Streamlit app for generating professional product advertisements using Bria AI’s advanced image generation and manipulation APIs.
 
 
-## 🌟 Features
+##  Features
 
-- 🖼️ Generate HD product images from text prompts  
-- 🎯 Remove backgrounds with custom colors  
-- 🌅 Add realistic shadows  
-- 🏠 Create lifestyle shots with text or reference images  
-- ✨ AI-powered prompt enhancement  
-- 📝 Optional CTA text overlay  
-- 🎮 Intuitive Streamlit UI  
-- 💾 Easy image download with one click  
+-  Generate HD product images from text prompts  
+-  Remove backgrounds with custom colors  
+-  Add realistic shadows  
+-  Create lifestyle shots with text or reference images  
+-  AI-powered prompt enhancement  
+-  Optional CTA text overlay  
+-  Intuitive Streamlit UI  
+-  Easy image download with one click  
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 1. **Clone the repository**
 ```bash
@@ -47,23 +46,23 @@ streamlit run app.py
 
 ---
 
-## 💡 How to Use
+##  How to Use
 
 1. Enter a product description or upload an image  
 2. Choose generation options from the sidebar:
-   - ✨ Enhance prompt with AI  
-   - 🧼 Remove background  
-   - 🌤️ Add shadows  
-   - 🏡 Generate lifestyle shots  
+   -  Enhance prompt with AI  
+   -  Remove background  
+   -  Add shadows  
+   -  Generate lifestyle shots  
 3. Adjust advanced settings like:
-   - 🎨 Background color  
-   - ☁️ Shadow intensity  
+   -  Background color  
+   -  Shadow intensity  
 4. Click **“Generate Ad”**  
-5. 💾 Download your generated image  
+5.  Download your generated image  
 
 ---
 
-## ⚙️ Configuration Options
+##  Configuration Options
 
 | Feature              | Description                                      |
 |----------------------|--------------------------------------------------|
@@ -75,7 +74,7 @@ streamlit run app.py
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions! Follow these steps:
 
@@ -88,23 +87,23 @@ git checkout -b feature/amazing-feature
 git commit -m "Add amazing feature"
 git push origin feature/amazing-feature
 
-# Open a pull request 🚀
+# Open a pull request 
 ```
 
 ---
 
-## 📝 License
+##  License
 
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
 ![MIT](https://img.shields.io/github/license/akshit40/adsnap-studio)
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
-- 💡 [Bria AI](https://bria.ai) – for their powerful image generation APIs  
-- 🧩 [Streamlit](https://streamlit.io) – for the amazing rapid development framework  
+-  [Bria AI](https://bria.ai) – for their powerful image generation APIs  
+-  [Streamlit](https://streamlit.io) – for the amazing rapid development framework  
 
 ---
 
-> Built with ❤️ by Akshit 
+> Built with  by Harsh 
